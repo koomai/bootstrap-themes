@@ -9,7 +9,7 @@ Default theme:
 
 ![Default Bootstrap theme](http://i.imgur.com/DIVYCJr.png)
 
-You can also swap the styles with all of the free themes available at [Bootswatch](http://bootswatch.com/).
+You can also swap the styles with all of the free themes available at [Bootswatch](http://bootswatch.com/). The CSS files are already included in the download.
 
 Cyborg theme:
 
