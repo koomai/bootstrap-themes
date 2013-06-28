@@ -14,4 +14,16 @@ return array(
   |
   */
   'bootstrap-theme' => 'default',
+
+  /*
+  |--------------------------------------------------------------------------
+  | Layout
+  |--------------------------------------------------------------------------
+  |
+  | Set the number of columns. Current options: one or two
+  |
+  */
+
+  'columns' => 'two',
+
 );
