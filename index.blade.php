@@ -1,4 +1,4 @@
-@extends(theme_path('layout'))
+@extends(theme_path('layout-'. Config::get('theme.columns') . '-column'))
 
 @section('content')
 	<section class="home">

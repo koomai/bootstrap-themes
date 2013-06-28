@@ -1,0 +1,108 @@
+header {
+  text-align: center;
+}
+
+h2.title {
+  margin: 30px 0;
+  font-size: 48px;
+  font-weight: 300;
+  font-style: normal;
+  line-height: 1.1em;
+  letter-spacing: -1px;
+  text-align: center;
+}
+
+.content {
+  margin-top: 20px;
+}
+
+p {
+  text-align: left;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.3em;
+  color: #666;
+}
+
+.container {
+  margin: 0 auto;
+  width: 600px;
+}
+
+.navbar .nav {
+  float: none;
+  text-align: center;
+}
+
+.navbar .nav li {
+  float: none;
+  display: inline-block;
+}
+
+ul.tags li {
+  list-style-type: none;
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+ul.archive {
+  margin: 0;
+  padding: 0;
+}
+
+ul.archive li {
+  list-style-type: none;
+  padding: 5px 0;
+  margin: 0;
+  text-align: left;
+  font-weight: 400;
+  color: #666;
+  background: #fff url('../img/archive-spacer.png') repeat-x center left;
+}
+ul.archive li span {
+  float: right;
+  font-size: 14px;
+  padding-left: 10px;
+  color: #ccc;
+  background: white;
+}
+ul.archive li strong {
+  font-size: 16px;
+  background: white;
+  padding-right: 10px;
+  font-weight: normal;
+}
+
+.post {
+  margin-top: 40px;
+}
+.post p {
+  text-align: justify;
+}
+.post blockquote {
+  font-style: italic;
+}
+
+.post h1 {
+  margin-bottom: 0;
+  text-align: center;
+  font-size: 32px;
+}
+.post .date {
+  font-size: 14px;
+  text-align: center;
+  padding-left: 10px;
+}
+
+.pagination {
+  text-align: center;
+}
+
+footer {
+  margin-top: 20px;
+}
+footer p {
+  text-align: center;
+  font-size: 14px;
+  line-height: 18px;
+}
