@@ -4,7 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>@yield('title')</title>
-    <link href="{{ url(theme_path('css/default/bootstrap.min.css')) }}" rel="stylesheet" media="screen">
+    <link href="{{ url(theme_path('css/'. Config::get('theme.bootstrap-theme') .'/bootstrap.min.css')) }}" 
+      rel="stylesheet" media="screen">
     <link href="{{ url(theme_path('css/style.css')) }}" rel="stylesheet" media="screen">
   </head>
   <body>
